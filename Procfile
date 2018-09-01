@@ -1,0 +1,1 @@
+worker: node anticmd.js
